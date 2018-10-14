@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!--favorite books-->
+<books>
+	<book>		
+		<book_title>The Book Thief</book_title>
+		<authors>
+			<author ID="1">Marcus Zusak</author>
+		</authors>
+		<genre>Historial Fiction</genre>
+		<pages>584</pages>
+	</book>		
+	<book>		
+		<book_title>The Kite Runner</book_title>
+		<authors>
+			<author ID="1">Khaled Husseini</author>
+		</authors>
+		<genre>Historical Fiction</genre>
+		<pages>372</pages>
+	</book>	
+<book>
+		<book_title>Automated Data Collection with R</book_title>
+		<authors>
+			<author ID="1">Simon Munzert</author>
+			<author ID="2">Christian Rubba</author>
+			<author ID="3">Peter Meibner</author>
+			<author ID="4">Dominic Nyhuis</author>
+		</authors>
+		<genre>Data Science</genre>
+		<pages>452</pages>
+	</book>	
+</books>

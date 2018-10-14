@@ -1,0 +1,20 @@
+﻿{"favorite recent books":[
+	{
+	"Book Title": "The Book Thief",
+	"Authors": "Marcus Zusak",
+	"Genre": "Historical Fiction",
+	"Pages": 584
+	},
+	{
+	"Book Title": "The Kite Runner",
+	"Authors": "Khaled Husseini",
+	"Genre": "Historical Fiction",
+	"Pages": 372
+	},
+		{
+	"Book Title": "Automated Data Collection with R",
+	"Authors": ["Simon Munzert", "Christian Rubba", "Peter Meibner", "Dominic Nyhuis"],
+	"Genre": "Data Science",
+	"Pages": 452
+	}]
+}
